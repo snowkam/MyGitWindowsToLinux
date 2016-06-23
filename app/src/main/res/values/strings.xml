@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyGitWindowsToLinux</string>
+    <string name="button_txt">я в виндовс</string>
 </resources>
